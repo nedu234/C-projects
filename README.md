@@ -5,3 +5,4 @@ DNA Analysis: A C++ program that analyzes hemoglobin DNA sequences to determine 
 
 Molecular geometry: A C++ program that analyzes hemoglobin DNA sequences to determine if individuals are normal, carriers, or anemic. The program also checks for genetic relationships between individuals based on shared genes.
 
+TONConverter: A C++ program that reads a number of tons from an input file and converts it into pounds, ounces, kilograms, and grams. The program outputs the results and conversion factors to a file.
