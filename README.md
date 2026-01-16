@@ -13,4 +13,6 @@ Linearsearch: C++ program that implements linear search to find a target value i
 
 Molecular geometry: A C++ program that analyzes hemoglobin DNA sequences to determine if individuals are normal, carriers, or anemic. The program also checks for genetic relationships between individuals based on shared genes.
 
+MultiplePrimeOddEven: C++ program demonstrating encapsulation with a custom integer class that checks primality, divisibility, and digit-sum parity.
+
 TONConverter: A C++ program that reads a number of tons from an input file and converts it into pounds, ounces, kilograms, and grams. The program outputs the results and conversion factors to a file.
