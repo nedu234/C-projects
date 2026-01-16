@@ -17,4 +17,6 @@ MultiplePrimeOddEven: C++ program demonstrating encapsulation with a custom inte
 
 Palindrome: C++ program that checks whether a given string is a palindrome by comparing characters from both ends using a helper function.
 
+Reversedigit: C++ program that reverses the digits of an integer using string manipulation and outputs the result.
+
 TONConverter: A C++ program that reads a number of tons from an input file and converts it into pounds, ounces, kilograms, and grams. The program outputs the results and conversion factors to a file.
