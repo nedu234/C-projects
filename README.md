@@ -19,4 +19,6 @@ Palindrome: C++ program that checks whether a given string is a palindrome by co
 
 Reversedigit: C++ program that reverses the digits of an integer using string manipulation and outputs the result.
 
+Selectionsort: C++ program that sorts an array using selection sort and performs binary search to find a target value, displaying the sorted array and search result.
+
 TONConverter: A C++ program that reads a number of tons from an input file and converts it into pounds, ounces, kilograms, and grams. The program outputs the results and conversion factors to a file.
